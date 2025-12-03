@@ -1,1 +1,3 @@
-https://list.iptvcat.com/my_list/s/c463f8dc2700956601b7ef063aeca19c.m3u8
+#EXTM3U
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Undefined",Kurdsat
+http://trn03.bozztv.com/gin-kurdsat/index.m3u8?checkedby:iptvcat.com
