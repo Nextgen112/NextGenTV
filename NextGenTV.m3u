@@ -1,1 +1,31 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="" group-title="NEWS (World)" tvg-logo="", NextGen • BBC News
+https://ythls-v3.onrender.com/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NEWS (World)" tvg-logo="", NextGen • DW News
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NEWS (World)" tvg-logo="", NextGen • Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NEWS (USA)" tvg-logo="", NextGen • NBC News Now
+https://nbcnewshls.linear-nbcnews-now.svc.leaning.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NEWS (USA)" tvg-logo="", NextGen • ABC News Live
+https://abcnews.go.com/live/abcnews.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="24/7 (Movies)" tvg-logo="", NextGen • Classic Movies 24/7
+https://moviesphere-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="24/7 (Action)" tvg-logo="", NextGen • Action TV 24/7
+https://dai.google.com/linear/hls/event/actiontv-001/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TECH" tvg-logo="", NextGen • NASA TV (Public)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-PUBLIC/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC" tvg-logo="", NextGen • T∅P Music Hits
+https://livecdn.fptplay.net/sdb/topmusic_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="WORLD" tvg-logo="", NextGen • TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
