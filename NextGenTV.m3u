@@ -1,6 +1,166 @@
 #EXTM3U
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Undefined",Kurdsat
+
+# =========================
+#   CORE KURDISH CHANNELS
+# =========================
+
+# Kurdsat (main)
+#EXTINF:-1 tvg-country="IQ" tvg-name="Kurdsat" tvg-logo="" group-title="KurdishIPTV",Kurdsat
 http://trn03.bozztv.com/gin-kurdsat/index.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/GLfhYSH.png" group-title="Undefined",Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8?checkedby:iptvcat.com
+
+
+# =========================
+#   KURDTVS / KURDISHIPTV
+# =========================
+
+# NRT TV HD
+#EXTINF:-1 tvg-name="NRT TV HD" tvg-logo="https://kurdtvs.net/uploads/nrttvhd.png" group-title="KurdishIPTV",NRT TV HD
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+
+# Rudaw TV Live
+#EXTINF:-1 tvg-name="Rudaw TV Live" tvg-logo="https://kurdtvs.net/uploads/rudawhd.png" group-title="KurdishIPTV",Rudaw TV Live
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+
+# Nrt2 HD
+#EXTINF:-1 tvg-name="Nrt2 HD" tvg-logo="https://kurdtvs.net/uploads/files/23-04-2016-c02c9b27-nrt2-hd-live-kurdtvs.png" group-title="KurdishIPTV",Nrt2 HD
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+
+# Kurdistan 24 TV
+#EXTINF:-1 tvg-name="Kurdistan 24 TV" tvg-logo="https://kurdtvs.net/uploads/kurdistan24.png" group-title="KurdishIPTV",Kurdistan 24 TV
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+
+# Ava Media TV
+#EXTINF:-1 tvg-name="Ava Media TV" tvg-logo="https://kurdtvs.net/uploads/files/22-04-2019-c52af58b-avatv.png" group-title="KurdishIPTV",Ava Media TV
+https://familyhls.avatv.live/hls/stream.m3u8
+
+# Amozhgary TV
+#EXTINF:-1 tvg-name="Amozhgary TV" tvg-logo="https://kurdtvs.net/uploads/amozhgary.png" group-title="KurdishIPTV",Amozhgary TV
+https://app-live.org/live/3268334b/index.m3u8
+
+# Kurdistan TV
+#EXTINF:-1 tvg-name="Kurdistan tv" tvg-logo="https://kurdtvs.net/uploads/kurdistantv.png" group-title="KurdishIPTV",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+# Waar TV
+#EXTINF:-1 tvg-name="Waar TV" tvg-logo="https://kurdtvs.net/uploads/files/25-02-2016-6b2f13a2-waartv.png" group-title="KurdishIPTV",Waar TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
+
+# Kurdsat News
+#EXTINF:-1 tvg-name="Kurdsat News" tvg-logo="https://kurdtvs.net/uploads/kurdsatnews.png" group-title="KurdishIPTV",Kurdsat News
+https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
+
+# Gali Kurdistan TV
+#EXTINF:-1 tvg-name="Gali Kurdistan TV" tvg-logo="https://kurdtvs.net/uploads/kelikurdistan.png" group-title="KurdishIPTV",Gali Kurdistan TV
+https://live.host247.net/gk/gksat/playlist.m3u8
+
+# Khak TV
+#EXTINF:-1 tvg-name="Khak TV" tvg-logo="https://kurdtvs.net/uploads/files/05-11-2016-bb32860d-khaktv-kurdtvs-live.png" group-title="KurdishIPTV",Khak TV
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+
+# Afarin HD TV
+#EXTINF:-1 tvg-name="Afarin HD TV" tvg-logo="https://kurdtvs.net/uploads/files/04-04-2020-2f61aa2b-afarin-tv-hd-kurdtvs.png" group-title="KurdishIPTV",Afarin HD TV
+https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8
+
+# Afarin HD TV (Alt 2)
+#EXTINF:-1 tvg-name="Afarin HD TV" tvg-logo="https://kurdtvs.net/uploads/files/04-04-2020-2f61aa2b-afarin-tv-hd-kurdtvs.png" group-title="KurdishIPTV",Afarin HD TV (Alt 2)
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+
+# Payam TV
+#EXTINF:-1 tvg-name="Payam tv" tvg-logo="https://kurdtvs.net/uploads/peyamtv.png" group-title="KurdishIPTV",Payam TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+
+# Ronahi TV
+#EXTINF:-1 tvg-name="Ronahi TV" tvg-logo="https://kurdtvs.net/uploads/ronahi.png" group-title="KurdishIPTV",Ronahi TV
+https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
+
+# Al Jazeera Documentary
+#EXTINF:-1 tvg-name="Al Jazeera Documentary" tvg-logo="https://kurdtvs.net/uploads/files/13-10-2017-01324229-al-jazeera-documentary-kurdtv.png" group-title="KurdishIPTV",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
+
+# Kirkuk Satellite TV
+#EXTINF:-1 tvg-name="Kirkuk Satellite TV" tvg-logo="https://kurdtvs.net/uploads/files/04-04-2020-b3ecf288-kirkuktv-HD-kurdtvs.png" group-title="KurdishIPTV",Kirkuk Satellite TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+
+# TRT Kurdi TV
+#EXTINF:-1 tvg-name="TRT Kurdi TV" tvg-logo="https://kurdtvs.net/uploads/trtkurdi.png" group-title="KurdishIPTV",TRT Kurdi TV
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+# Zarok TV Kurmanci
+#EXTINF:-1 tvg-name="Zarok TV Kurmanci" tvg-logo="https://kurdtvs.net/uploads/zaroktv.png" group-title="KurdishIPTV",Zarok TV Kurmanci
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+# DW Eng
+#EXTINF:-1 tvg-name="DW Eng" tvg-logo="https://kurdtvs.net/uploads/files/29-05-2017-e292f206-dw-english-kurdtvs.net.png" group-title="KurdishIPTV",DW Eng
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+# Zagros TV HD
+#EXTINF:-1 tvg-name="Zagros TV HD" tvg-logo="https://kurdtvs.net/uploads/zagros.png" group-title="KurdishIPTV",Zagros TV HD
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+
+# Star TV HD
+#EXTINF:-1 tvg-name="Star TV HD" tvg-logo="https://kurdtvs.net/uploads/files/11-03-2019-f5816467-star-tv-hd-live-kurdtvs.png" group-title="KurdishIPTV",Star TV HD
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+
+# TRT Çocuk
+#EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://kurdtvs.net/uploads/files/10-11-2016-fada8011-trt-cocuk-kurdtvs.png" group-title="KurdishIPTV",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+# RT
+#EXTINF:-1 tvg-name="RT" tvg-logo="https://kurdtvs.net/uploads/files/29-05-2017-dd712c18-russia-today-kurdtvs.net.png" group-title="KurdishIPTV",RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+# France 24
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://kurdtvs.net/uploads/files/10-11-2016-2fd2ad56-france24-kurdtvs.png" group-title="KurdishIPTV",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+# Islam Channel
+#EXTINF:-1 tvg-name="Islam Channel" tvg-logo="https://kurdtvs.net/uploads/files/06-06-2016-62f91b3a-islamchannel-kurdtvscom.png" group-title="KurdishIPTV",Islam Channel
+https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
+
+# MBC Iraq
+#EXTINF:-1 tvg-name="MBC Iraq" tvg-logo="https://kurdtvs.net/uploads/files/28-03-2019-26b94a89-mbc-iraq-kurdtvs-live_.png" group-title="KurdishIPTV",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/manifest/video/720p1750kbps/video.m3u8
+
+# ABC News
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://kurdtvs.net/uploads/files/20-06-2016-1996641e-abcnews-tv-kurdtvs-com.png" group-title="KurdishIPTV",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+# Çira TV HD
+#EXTINF:-1 tvg-name="Çira TV HD" tvg-logo="https://kurdtvs.net/uploads/ciratv.png" group-title="KurdishIPTV",Çira TV HD
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+
+# Al Jazeera Arabic
+#EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-logo="https://kurdtvs.net/uploads/files/18-05-2016-368cc121-aljazeeraar.png" group-title="KurdishIPTV",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+
+# Teve2 HD
+#EXTINF:-1 tvg-name="Teve2 HD" tvg-logo="https://kurdtvs.net/uploads/files/11-03-2019-37b1d95a-teve2-hd-live-kurdtvs.png" group-title="KurdishIPTV",Teve2 HD
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+# Med Muzik TV
+#EXTINF:-1 tvg-name="Med Muzik TV" tvg-logo="https://kurdtvs.net/uploads/medmuzik.png" group-title="KurdishIPTV",Med Muzik TV
+http://54.36.110.140/live3/live3.m3u8
+
+# Dubai One TV Movie
+#EXTINF:-1 tvg-name="Dubai One TV Movie" tvg-logo="https://kurdtvs.net/img/kurdtvs.com-noimg.png" group-title="KurdishIPTV",Dubai One TV Movie
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+# Sky News Arabia
+#EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://kurdtvs.net/uploads/files/08-05-2016-59da9274-nrtarabic.jpg" group-title="KurdishIPTV",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+# Haber 61 HD
+#EXTINF:-1 tvg-name="Haber 61 HD" tvg-logo="https://kurdtvs.net/uploads/files/29-06-2019-8530c0c5-ahaber-kurdtvs-logo.png" group-title="KurdishIPTV",Haber 61 HD
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+
+# Sada TV
+#EXTINF:-1 tvg-name="Sada TV" tvg-logo="https://kurdtvs.net/uploads/files/29-05-2017-dd712c18-russia-today-kurdtvs.net.png" group-title="KurdishIPTV",Sada TV
+http://sada-hd.ddns.net:40/live/sadatv/playlist.m3u8
+
+# Bangxwazen Badinan
+#EXTINF:-1 tvg-name="Bangxwazen Badinan" tvg-logo="https://kurdtvs.net/img/kurdtvs.com-noimg.png" group-title="KurdishIPTV",Bangxwazen Badinan
+http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
+
+# Mihrab TV
+#EXTINF:-1 tvg-name="Mihrab TV" tvg-logo="https://kurdtvs.net/uploads/files/06-09-2018-61ae8100-zikrakani-bayanyan.png" group-title="KurdishIPTV",Mihrab TV
+http://baskhd.ddns.net:40/live/MihrabTV/chunklist_w1291413404.m3u8
